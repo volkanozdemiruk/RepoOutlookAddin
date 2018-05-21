@@ -1,0 +1,1 @@
+https://timdams.com/2017/05/09/how-to-create-a-simple-outlook-vsto-addin-a-step-by-step-guide/
